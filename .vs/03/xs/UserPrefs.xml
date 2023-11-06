@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{6332072E-2E84-DF91-5669-A9FBD3A2BAC8}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CODE/ScenceJump.cs">
+    <Files>
+      <File FileName="Assets/CODE/SwichResolution.cs" Line="1" Column="1" />
+      <File FileName="Assets/CODE/ScenceJump.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="af1be598-7427-49f3-9e11-5b233343647a" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
